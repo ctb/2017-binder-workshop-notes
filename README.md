@@ -12,7 +12,7 @@
 
 ## Breakouts and summaries
 
-[Titus's demo of Binder/roundtrip](Titus's%20demo%20of%20Binder)
+[Titus's demo of Binder/roundtrip](Titus's%20demo%20of%20Binder.md)
 
 [Creating a binder on github](Creating%20a%20binder%20on%20github.md)
 
