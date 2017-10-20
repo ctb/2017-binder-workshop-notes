@@ -12,7 +12,7 @@
 
 ## Breakouts and summaries
 
-[Titus's demo of Binder/roundtrip](Titus's%20demo%20of%20Binder.md)
+[Titus's demo of Binder/roundtrip](Titus's%20demo%20of%20Binder)
 
 [Creating a binder on github](Creating%20a%20binder%20on%20github.md)
 
@@ -22,7 +22,7 @@
 
 [Binder Integration w/Other Services](Binder%20Integration%20with%20Other%20Services.md)
 
-[Got Data?](Got%20Data?.md)
+[Got Data?](Got%20Data%3F.md)
 
 [Sustainability & growing a community](Sustainability%20&%20growing%20a%20community.md)
 
