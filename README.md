@@ -18,9 +18,9 @@
 
 [Binder workshop - use cases day 1 output](Binder%20workshop%20-%20use%20cases%20day%201%20output.md)
 
-[Binder - notes from provenance/legal/authorship breakout](Binder -%20notes%20from%20provenance-legal-authorship%20breakout.md)
+[Binder - notes from provenance/legal/authorship breakout](Binder%20-%20notes%20from%20provenance-legal-authorship%20breakout.md)
 
-[Binder Integration w/%20Other%20Services](Binder%20Integration%20with%20Other%20Services.md)
+[Binder Integration w/Other Services](Binder%20Integration%20with%20Other%20Services.md)
 
 [Got Data?](Got%20Data?.md)
 

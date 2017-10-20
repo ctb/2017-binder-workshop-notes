@@ -102,6 +102,8 @@ C. Titus Brown, ctbrown@ucdavis.edu, 517-505-9237 cell/whatsapp, @ctitusbrown on
 
 **Clark Fitzgerald** - Statistics graduate student at UC Davis DSI
 
+**Jon Udell** - from hypothes.is!
+
 ## Some reading material
 
 [Project Jupyter: Computational Narratives as the Engine of Collaborative Data Science](https://blog.jupyter.org/project-jupyter-computational-narratives-as-the-engine-of-collaborative-data-science-2b5fb94c3c58)
