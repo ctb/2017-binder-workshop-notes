@@ -54,7 +54,7 @@ C. Titus Brown, ctbrown@ucdavis.edu, 517-505-9237 cell/whatsapp, @ctitusbrown on
 
 **Edwin Skidmore** - I lead team responsible for CyVerse's core infrastructure and cloud platform
 
-**Pamela Reynolds** - Coordinator, UC Davis Data Science Initiative
+**Pamela Reynolds** - Academic Coordinator, UC Davis Data Science Initiative
 
 **Gail Clement** - Research library admin aspiring to do our part to make research communication  more effective, useful, and openly accessible, and to support authors and publishers interested in same. Willing to cancel Elsevier and Springer journals to make this happen.
 
