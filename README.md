@@ -28,6 +28,8 @@
 
 [Markdown](https://github.com/ctb/2017-binder-workshop-notes/blob/master/Binder%20for%20everybody.md) and separate [handwritten notes from second sustainability session - a Binder in every pot!](Notes-from-sustainability-2-with-gail.pdf) - PDF, warning, Titus's handwriting is challenging.
 
+[Best practices for teaching with binder](https://github.com/ctb/2017-binder-workshop-notes/blob/master/Best%20Practices%20for%20teaching%20with%20binder.md)
+
 ## Deprecated/old/keep for posterity
 
 [Tim's scheduling proposal for Binder workshop](Scheduling%20for%20Binder%20workshop.md)
