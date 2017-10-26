@@ -2,7 +2,7 @@
 
 
 
-We'll need to links, the link to Tim's binder and the repository:
+We'll need two links, the link to Tim's binder and the repository:
     https://beta.mybinder.org/v2/gh/wildtreetech/epfl-osip-2017/master
     https://github.com/wildtreetech/epfl-osip-2017/
 
