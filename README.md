@@ -26,7 +26,7 @@
 
 [Sustainability & growing a community](Sustainability%20&%20growing%20a%20community.md)
 
-[Notes from second sustainability session - a Binder in every pot!](Notes-from-sustainability-2-with-gail.pdf) - PDF, warning, Titus's handwriting is challenging.
+[Markdown](https://github.com/ctb/2017-binder-workshop-notes/blob/master/Binder%20for%20everybody.md) and separate [handwritten notes from second sustainability session - a Binder in every pot!](Notes-from-sustainability-2-with-gail.pdf) - PDF, warning, Titus's handwriting is challenging.
 
 ## Deprecated/old/keep for posterity
 
